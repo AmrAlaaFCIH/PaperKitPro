@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 Jun 2021 08:29:09 at https://demos.creative-tim.com/paper-kit-2-pro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.creative-tim.com/paper-kit-2-pro/ -O1 "D:\Websites\PaperUIPro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:29:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://demos.creative-tim.com/paper-kit-2-pro/)
+08:30:49	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/assets/img/photo_swipe/default-skin.png (from https://demos.creative-tim.com/paper-kit-2-pro/assets/css/paper-kit.min.css?v=2.3.1)
+08:30:49	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/assets/css/preloader.gif (from https://demos.creative-tim.com/paper-kit-2-pro/assets/css/paper-kit.min.css?v=2.3.1)
+08:30:49	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/assets/img/ink.png (from https://demos.creative-tim.com/paper-kit-2-pro/assets/css/paper-kit.min.css?v=2.3.1)
+08:30:49	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/assets/css/{{ path-general }}/assets/img{{ site.product_path }}/farid-askerov.jpg (from https://demos.creative-tim.com/paper-kit-2-pro/assets/css/paper-kit.min.css?v=2.3.1)
+08:30:49	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/assets/fonts/nucleo-icons.svg (from https://demos.creative-tim.com/paper-kit-2-pro/assets/css/paper-kit.min.css?v=2.3.1)
+08:30:49	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/examples/login.html (from https://demos.creative-tim.com/paper-kit-2-pro/presentation.html)
+08:30:53	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/uifaces/faces/twitter/mlane/128.jpg (from https://demos.creative-tim.com/paper-kit-2-pro/presentation.html)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/www.creative-tim.com (from https://demos.creative-tim.com/paper-kit-2-pro/sections.html)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/examples/pkp (from https://demos.creative-tim.com/paper-kit-2-pro/examples/blog-post.html)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/examples/docs/2.0/getting-started/introduction.html (from https://demos.creative-tim.com/paper-kit-2-pro/examples/landing-page.html)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/assets/img/fabio-mangione.jpg (from https://demos.creative-tim.com/paper-kit-2-pro/examples/profile-page.html)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/c (from connect.facebook.net/en_US/fbevents.js)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/b (from connect.facebook.net/en_US/fbevents.js)
+08:30:58	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/paper-kit-2-pro/POST (from connect.facebook.net/en_US/fbevents.js)
+08:30:58	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://code.jquery.com/jquery-3.2.1.min.js (from https://demos.creative-tim.com/paper-kit-2-pro/nucleo-icons.html)
+08:31:07	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://code.jquery.com/jquery-3.2.1.min.js (from https://demos.creative-tim.com/paper-kit-2-pro/nucleo-icons.html)
+08:31:10	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://code.jquery.com/jquery-3.2.1.min.js (from https://demos.creative-tim.com/paper-kit-2-pro/nucleo-icons.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 1 seconds : 284 links scanned, 265 files written (37046882 bytes overall) [34042416 bytes received at 281342 bytes/sec], 4419804 bytes transferred using HTTP compression in 104 files, ratio 21%, 9.7 requests per connection
+(16 errors, 2 warnings, 0 messages)
